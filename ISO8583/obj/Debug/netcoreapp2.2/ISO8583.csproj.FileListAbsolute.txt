@@ -1,0 +1,11 @@
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.deps.json
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.runtimeconfig.json
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.runtimeconfig.dev.json
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.dll
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.pdb
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.csprojAssemblyReference.cache
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.csproj.CoreCompileInputs.cache
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.AssemblyInfoInputs.cache
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.AssemblyInfo.cs
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.dll
+/home/emmanuel/RiderProjects/ISO8583/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.pdb
