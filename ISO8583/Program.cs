@@ -31,7 +31,7 @@ namespace ISO8583
 
             Console.WriteLine(parser.Bitmap_manager.getBitmapCount());
 
-            Console.WriteLine(parser.Code);
+            Console.WriteLine(parser.DataFields);
         }
     }
 }

@@ -7,12 +7,12 @@ namespace ISO8583.ISO8385
         public MTI Mti => mti;
         public string Message => message;
         public Bitmap_Manager Bitmap_manager => bitmap_manager;
-        public string Code => code;
+        public string DataFields => data_fields;
 
         private MTI mti;
         private Bitmap_Manager bitmap_manager;
         private string message;
-        private string code;
+        private string data_fields;
 
         public const int BITMAP_LENGHT = 16;
         public const int MTI_LENGHT = 4;
@@ -35,7 +35,7 @@ namespace ISO8583.ISO8385
             } while (bitmap_manager.hasNextBitmap());
 
             //the rest of the message is the code
-            code = message;
+            data_fields = message;
         }
 
         private MTI getMTI(ref string message, bool remove_flag = true)

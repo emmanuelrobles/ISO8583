@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd5095fb-f718-40b3-a90a-8c8c5cb99128" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ISO8583/ISO8385/Bitmap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ISO8583/ISO8385/Bitmap.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ISO8583/ISO8385/Bitmap_Manager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ISO8583/ISO8385/Bitmap_Manager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO8583/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ISO8583/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ISO8583/bin/Debug/netcoreapp2.2/ISO8583.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ISO8583/obj/Debug/netcoreapp2.2/ISO8583.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,48 +48,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ISO8583/ISO8385/Bitmap_Manager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+            <state relative-caret-position="1035">
+              <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
               <folding>
-                <marker date="1552321365683" expanded="false" signature="6:73" ph="..." />
-                <marker date="1552321365683" expanded="true" signature="100:1695" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="134:1693" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="255:317" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="363:581" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="425:533" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="623:856" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="693:813" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="893:1103" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="938:1031" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="1143:1597" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="1321:1538" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="1393:1492" ph="{...}" />
-                <marker date="1552321365683" expanded="true" signature="1634:1687" ph="{...}" />
+                <marker date="1552322453874" expanded="false" signature="6:73" ph="..." />
+                <marker date="1552322453874" expanded="true" signature="100:1903" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="134:1901" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="255:329" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="398:616" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="460:568" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="699:932" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="769:889" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="1031:1241" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="1076:1169" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="1342:1759" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="1483:1700" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="1555:1654" ph="{...}" />
+                <marker date="1552322453874" expanded="true" signature="1842:1895" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ISO8583/ISO8385/Bitmap.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+            <state relative-caret-position="230">
+              <caret line="40" column="73" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
               <folding>
-                <marker date="1552320503752" expanded="false" signature="6:66" ph="..." />
-                <marker date="1552320503752" expanded="true" signature="93:1765" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="119:1763" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="426:1208" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="606:761" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="1059:1198" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="1253:1396" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="1302:1359" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="1433:1757" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="1552:1706" ph="{...}" />
-                <marker date="1552320503752" expanded="true" signature="1614:1692" ph="{...}" />
+                <marker date="1552322453758" expanded="false" signature="6:66" ph="..." />
+                <marker date="1552322453758" expanded="true" signature="93:1871" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="119:1869" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="426:1208" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="606:761" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="1059:1198" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="1305:1448" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="1354:1411" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="1539:1863" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="1658:1812" ph="{...}" />
+                <marker date="1552322453758" expanded="true" signature="1720:1798" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,9 +119,9 @@
         <option value="$PROJECT_DIR$/ISO8583/Exceptions/BITMAP_FULL.cs" />
         <option value="$PROJECT_DIR$/ISO8583/Exceptions/BITMAP_EMPTY.cs" />
         <option value="$PROJECT_DIR$/ISO8583/ISO8385/ISO_Parser.cs" />
-        <option value="$PROJECT_DIR$/ISO8583/ISO8385/Bitmap.cs" />
         <option value="$PROJECT_DIR$/ISO8583/Program.cs" />
         <option value="$PROJECT_DIR$/ISO8583/ISO8385/Bitmap_Manager.cs" />
+        <option value="$PROJECT_DIR$/ISO8583/ISO8385/Bitmap.cs" />
       </list>
     </option>
   </component>
@@ -224,12 +220,12 @@
       <workItem from="1551969305128" duration="1202000" />
       <workItem from="1551996453001" duration="640000" />
       <workItem from="1552072075748" duration="1988000" />
-      <workItem from="1552319448012" duration="1919000" />
+      <workItem from="1552319448012" duration="3007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35293000" />
+    <option name="totallyTimeSpent" value="36381000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -242,8 +238,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14277808" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14277808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -251,7 +248,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32824427" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991276" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
@@ -285,13 +282,13 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/ISO8583/ISO8385/Bitmap_Manager.cs</url>
-          <line>57</line>
+          <line>60</line>
           <properties documentPath="$PROJECT_DIR$/ISO8583/ISO8385/Bitmap_Manager.cs" initialLine="57">
             <startOffsets>
-              <option value="1410" />
+              <option value="1572" />
             </startOffsets>
             <endOffsets>
-              <option value="1411" />
+              <option value="1573" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="4" />
@@ -691,45 +688,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ISO8583/ISO8385/Bitmap.cs">
+    <entry file="file://$PROJECT_DIR$/ISO8583/ISO8385/Bitmap_Manager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        <state relative-caret-position="1035">
+          <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
           <folding>
-            <marker date="1552320503752" expanded="false" signature="6:66" ph="..." />
-            <marker date="1552320503752" expanded="true" signature="93:1765" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="119:1763" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="426:1208" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="606:761" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="1059:1198" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="1253:1396" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="1302:1359" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="1433:1757" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="1552:1706" ph="{...}" />
-            <marker date="1552320503752" expanded="true" signature="1614:1692" ph="{...}" />
+            <marker date="1552322453874" expanded="false" signature="6:73" ph="..." />
+            <marker date="1552322453874" expanded="true" signature="100:1903" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="134:1901" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="255:329" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="398:616" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="460:568" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="699:932" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="769:889" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="1031:1241" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="1076:1169" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="1342:1759" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="1483:1700" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="1555:1654" ph="{...}" />
+            <marker date="1552322453874" expanded="true" signature="1842:1895" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ISO8583/ISO8385/Bitmap_Manager.cs">
+    <entry file="file://$PROJECT_DIR$/ISO8583/ISO8385/Bitmap.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        <state relative-caret-position="230">
+          <caret line="40" column="73" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
           <folding>
-            <marker date="1552321365683" expanded="false" signature="6:73" ph="..." />
-            <marker date="1552321365683" expanded="true" signature="100:1695" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="134:1693" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="255:317" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="363:581" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="425:533" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="623:856" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="693:813" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="893:1103" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="938:1031" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="1143:1597" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="1321:1538" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="1393:1492" ph="{...}" />
-            <marker date="1552321365683" expanded="true" signature="1634:1687" ph="{...}" />
+            <marker date="1552322453758" expanded="false" signature="6:66" ph="..." />
+            <marker date="1552322453758" expanded="true" signature="93:1871" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="119:1869" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="426:1208" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="606:761" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="1059:1198" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="1305:1448" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="1354:1411" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="1539:1863" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="1658:1812" ph="{...}" />
+            <marker date="1552322453758" expanded="true" signature="1720:1798" ph="{...}" />
           </folding>
         </state>
       </provider>

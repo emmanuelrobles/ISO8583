@@ -12,9 +12,10 @@ namespace ISO8583.ISO8385
 
         public Bitmap_Manager()
         {
-            bitmap = new List<Bitmap>(3);
+            bitmap = new List<Bitmap>(BITMAP_LENGTH);
         }
 
+        //add a bitmap
         public void addBitmap(Bitmap bitmap)
         {
             if (this.bitmap.Count == BITMAP_LENGTH)
@@ -25,6 +26,7 @@ namespace ISO8583.ISO8385
             this.bitmap.Add(bitmap);
         }
 
+        //get the bitmap at a given poss
         public Bitmap getBitmap(int pos)
         {
             if (pos >= BITMAP_LENGTH || pos > bitmap.Count)
@@ -35,6 +37,8 @@ namespace ISO8583.ISO8385
             return bitmap[pos];
         }
 
+        
+        //check if the last bitmap has a next bitmap
         public bool hasNextBitmap()
         {
             if (bitmap.Count == 0)
@@ -45,6 +49,7 @@ namespace ISO8583.ISO8385
             return bitmap[bitmap.Count - 1].hasNextBitmap();
         }
 
+        //get an array with the data elements of all bitmaps
         public int[] getDataElements()
         {
             List<int> temp_dataElements = new List<int>();
@@ -63,6 +68,8 @@ namespace ISO8583.ISO8385
             return temp_dataElements.ToArray();
         }
 
+        
+        //get the ammount of bitmaps
         public int getBitmapCount()
         {
             return bitmap.Count;

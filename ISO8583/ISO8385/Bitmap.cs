@@ -42,6 +42,7 @@ namespace ISO8583.ISO8385
             }
         }
         
+        //check of current bitmap has a next bitmap
         public bool hasNextBitmap()
         {
             if (bitmap_bits[0] == '1')
@@ -52,6 +53,8 @@ namespace ISO8583.ISO8385
             return false;
         }
 
+        
+        //get dataelements of current bitmap
         public int[] dataElements()
         {
             List<int> temp_List = new List<int>();
