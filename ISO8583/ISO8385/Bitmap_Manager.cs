@@ -50,20 +50,14 @@ namespace ISO8583.ISO8385
             List<int> temp_dataElements = new List<int>();
 
             int flag_sum = 0;
-            bool flag_bool = false;
-
             foreach (Bitmap b in bitmap)
             {
                 foreach (int element in b.dataElements())
                 {
-                    if (flag_bool)
-                        temp_dataElements.Add(element + flag_sum);
-                    else
-                        temp_dataElements.Add(element);
-                    flag_sum++;
+                    temp_dataElements.Add(element + flag_sum);
                 }
 
-                flag_bool = true;
+                flag_sum = 64;
             }
 
             return temp_dataElements.ToArray();
