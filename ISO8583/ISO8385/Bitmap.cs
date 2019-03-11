@@ -44,7 +44,7 @@ namespace ISO8583.ISO8385
         
         public bool hasNextBitmap()
         {
-            if (bitmap_bits[0] == 1)
+            if (bitmap_bits[0] == '1')
             {
                 return true;
             }
@@ -56,7 +56,7 @@ namespace ISO8583.ISO8385
         {
             List<int> temp_List = new List<int>();
 
-            for (int i = 1; i < bitmap_bits.Length; i++)
+            for (int i = 0; i < bitmap_bits.Length; i++)
             {
                 if (bitmap_bits[i].Equals('1'))
                 {

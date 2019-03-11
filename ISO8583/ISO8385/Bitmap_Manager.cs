@@ -68,5 +68,10 @@ namespace ISO8583.ISO8385
 
             return temp_dataElements.ToArray();
         }
+
+        public int getBitmapCount()
+        {
+            return bitmap.Count;
+        }
     }
 }
